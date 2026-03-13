@@ -12,7 +12,7 @@ The project focuses on the design and documentation of a furniture component usi
 ## Files
 - `proiect_1_GAC.dwg` - original AutoCAD drawing file
 - `Proiect1_GAC.pdf` - PDF export of the technical drawing
-- `image.png` - screenshots of the original drawing in AutoCAD
+- `Screenshot 2026-` - screenshots of the original drawing in AutoCAD
 
 ## Project Overview
 This project was created to practice technical drafting skills and to produce a structured engineering-style drawing for documentation purposes.
